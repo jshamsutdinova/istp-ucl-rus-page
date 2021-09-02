@@ -1,0 +1,9 @@
+.theme--light.v-application {
+    background-color: rgb(217, 232, 236);
+  }
+
+  @media screen and (max-width: 320px) {
+    * {
+        margin: 0 auto;
+     }
+}

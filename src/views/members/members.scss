@@ -1,0 +1,27 @@
+h1 {
+    color: 	 #032539;
+    @include responsive-font(28, 36);
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+div.row.emblem {
+    justify-content: center;
+    justify-items: center;
+}
+
+.v-row {
+    column-gap: 50px;
+}
+
+.short-inst {
+    display: none;
+}
+
+@media screen and (min-width: 960px) and (max-width: 1263px){
+    .short-inst {
+        display: block;
+    }
+    .full-inst {
+        display: none;
+    }
+}

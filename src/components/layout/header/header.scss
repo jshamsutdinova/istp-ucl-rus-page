@@ -1,0 +1,72 @@
+@mixin flag-icon ($justify, $navigator:false){
+    width: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: $justify;
+}
+
+div.content {
+    width: 100%;
+    height: 100%;
+}
+
+div.top-bar{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+div.lang{
+    @include flag-icon(flex-end, $navigator:false)
+}
+
+div.lang-nav{
+    @include flag-icon(flex-start, $navigator:false)
+}
+
+div.title {
+    flex-direction: column;
+    text-align: center;
+    color: 	rgb(248, 241, 241);
+    text-shadow: 1px 1px 10px black;
+    font-weight: 900;
+    line-height: 130%;
+    @include responsive-font(15, 31)
+}
+
+div.menu {
+    display: flex;
+    justify-content: center;
+    div {
+        align-self: flex-end;
+    }
+    .v-btn {
+        color: aliceblue;
+        font-weight: 700;
+    }
+    .v-btn.v-size--default {
+        @include responsive-font(11, 17);
+    }
+    .v-divider {
+        border-color: aliceblue;
+    }
+}
+
+@media screen and (min-width: 940px) and (max-width: 1298px) {
+    div.title {
+        @include responsive-font(15, 28)
+    }
+}
+
+@media screen and (max-width: 599px) {
+    div.menu, div.lang {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1565px) {
+    div.title {
+       font-size: 34px !important;
+    }
+}
