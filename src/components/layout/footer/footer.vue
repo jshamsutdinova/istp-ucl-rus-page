@@ -13,14 +13,14 @@
                 <v-img
                   alt="Royal Society"
                   width="150"
-                  :src="require('@/assets/sponsors/royal-society_1.png')"
+                  src="@/assets/sponsors/royal-society_1.png"
                 />
               </li>
               <li>
                 <v-img
                   alt="RFBR"
                   width="150"
-                  :src="require('@/assets/sponsors/rfbr.png')"
+                  src="@/assets/sponsors/rfbr.png"
                 />
               </li>
             </ul>
@@ -41,13 +41,13 @@
                   <v-img
                     class="emblem"
                     alt="UCL"
-                    :src="require('@/assets/emblems/istp.png')"
+                    src="@/assets/emblems/istp.png"
                   />
                 </a>
                 </div>
               <!-- </li> -->
               <li>
-                @{{ new Date().getFullYear() }}<strong> ИСЗФ</strong>
+                {{ new Date().getFullYear() }}<strong> ИСЗФ</strong>
               </li>
             </ul>
           </div>

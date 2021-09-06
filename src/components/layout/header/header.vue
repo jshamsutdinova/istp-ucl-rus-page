@@ -4,7 +4,7 @@
     app
     absolute
     prominent
-    :src="require('@/assets/banner/banner_1.jpg')"
+    src="@/assets/banner/banner_1.jpg"
     height="180px"
   >
   <div class="content">
@@ -14,13 +14,13 @@
         <v-img
             contain
             max-height="30"
-            :src="require('@/assets/flags/russia.png')"
+            src="@/assets/flags/russia.png"
             alt="RU"
           />
         <v-img
             contain
             max-height="30"
-            :src="require('@/assets/flags/united-kingdom.png')"
+            src="@/assets/flags/united-kingdom.png"
             alt="GB"
           />
       </div>
@@ -51,13 +51,13 @@
         <v-img
             contain
             max-height="30"
-            :src="require('@/assets/flags/united-kingdom.png')"
+            src="@/assets/flags/united-kingdom.png"
             alt="GB"
           />
         <v-img
           contain
           max-height="30"
-          :src="require('@/assets/flags/russia.png')"
+          src="@/assets/flags/russia.png"
           alt="RU"
         />
       </div>
