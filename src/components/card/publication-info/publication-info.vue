@@ -6,7 +6,7 @@
       </div>
 
       <div class='title mx-5 mt-1'>
-        {{ title }}
+        {{ title.toUpperCase() }}
       </div>
 
       <div class="source mx-5">
