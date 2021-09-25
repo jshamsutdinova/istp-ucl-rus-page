@@ -4,7 +4,8 @@ export default {
   props: {
     type: String,
     title: String,
-    mainAuthor: String,
+    main: String,
+    speaker: String,
     authors: String,
     link: String
   },

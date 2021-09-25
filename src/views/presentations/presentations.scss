@@ -1,12 +1,13 @@
-* {
-    // border: 2px solid rebeccapurple;
-}
-
 div.conf-name {
     color: $title-color;
+    @include responsive-font(14, 16);
+    line-height: 1.2;
+    cursor: pointer;
 }
+
 div.conf-date {
     color: $blue-color;
-    font-size: 18px;
-
+    @include responsive-font(14, 17);
 }
+
+

@@ -1,7 +1,8 @@
 <template>
   <v-card
     outlined
-    height="100%  "
+    height="100%"
+    elevation="2"
   >
     <v-list-item three-line>
       <v-list-item-content>
@@ -14,7 +15,7 @@
             {{ title }}
         </div>
         <v-list-item-subtitle class="author">
-          <u> {{ mainAuthor }} </u>, {{ authors }}
+          {{ main }} <b>{{ speaker }}</b> {{ authors }}
         </v-list-item-subtitle>
       </v-list-item-content>
 
