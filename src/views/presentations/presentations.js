@@ -8,7 +8,7 @@ export default ({
   },
 
   data: () => ({
-    test_files: [
+    files: [
       {
         id: 1,
         name_conf: '16-я ежегодная конференция "Физика плазмы в солнечной системе"',
@@ -93,7 +93,7 @@ export default ({
       {
         id: 5,
         name_conf: '16th European Solar Physics Meeting',
-        date_place: '6-10 Сентября 2021, Online',
+        date_place: '6-10 сентября 2021, Online',
         link_conf: 'https://indico.ict.inaf.it/event/794/',
         presentations: [
           {
@@ -114,13 +114,34 @@ export default ({
           }
         ]
 
+      },
+      {
+        id: 6,
+        name_conf: 'XXV Всеройссийская ежегодная конференция по физике Солнца "Солнечная и солнечно-земная Физика"',
+        date_place: '4-8 октября 2021, Главная (Пулковская) астрономическая обсерватория РАН, Санкт-Петербург, Россия',
+        link_conf: 'http://www.gaoran.ru/russian/solphys/2020/',
+        presentations: [
+          {
+            num: 1,
+            type: 'Устный доклад',
+            title: 'О связи микроволновых источников солнечных вспышек и всплесков в дециметровом и метровом радиодиапазонах',
+            speaker: 'Кашапова Л.К., ',
+            authors: 'Куприянова Е.Г., Колотков Д.Ю., Рид Х.А.С., Кудрявцева А.В., Тан Ч.М., Жанг Дж.',
+            link: ''
+          }
+        ]
+
       }
     ]
-  }), // end methods
+  }), // end data
 
   methods: {
     openFile: function (url) {
       window.open(url, '_blank')
     }
+  }, // end methods
+
+  mounted () {
+    this.files.sort((a, b) => b.id - a.id)
   }
 })

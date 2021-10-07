@@ -28,7 +28,7 @@ export default ({
         name: 'Дэвид Лонг',
         name_eng: 'David Long',
         institute: 'University College London',
-        description: 'Research interests'
+        description: 'Изучение образования и ранней  эволюции солнечных извержений с помощью плазменной диагностики'
       },
       {
         id: 4,

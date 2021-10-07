@@ -1,6 +1,5 @@
 <template>
   <v-container>
-    Highlights
   </v-container>
 </template>
 

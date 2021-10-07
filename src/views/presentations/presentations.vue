@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <div v-for="file in test_files" :key="file.id">
+    <div v-for="file in files" :key="file.id">
       <div class="conf-name">
         <h2 @click="openFile(file.link_conf)">{{ file.name_conf }}</h2>
       </div>
