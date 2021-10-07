@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/istp-ucl-rus-page/',
+  publicPath: '/mw-sources-of-meter-radio-events/',
 
   transpileDependencies: [
     'vuetify'
