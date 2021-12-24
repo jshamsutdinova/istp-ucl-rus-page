@@ -64,6 +64,13 @@ export default ({
         title: '"О связи микроволновых источников солнечных вспышек и всплесков в дециметровом и метровом радиодиапазонах"',
         source: 'Сборник тезисов XXV Всероссийской ежегодной конференции по физике Солнца "Солнечная и солнечно-земная физика" 4-8 октября 2021, Главная (Пулковская) астрономическая обсерватория РАН, Санкт-Петербург, Россия, С.44',
         url: 'http://www.gaoran.ru/russian/solphys/2021/gao2021.pdf'
+      },
+      {
+        id: 9,
+        authors: 'Larisa Kashapova, Dmitrii Kolotkov, Elena Kupriyanova, Anastasiia Kudriavtseva, Chengming Tan, Hamish Reid',
+        title: '"Common origin of quasi-periodic pulsations in microwave and decimetric solar radio bursts"',
+        source: 'Solar Physics DOI 10.1007/s11207-021-01934-x',
+        url: 'https://ui.adsabs.harvard.edu/abs/2021arXiv211007880K/abstract'
       }
     ]
   }), // end data
