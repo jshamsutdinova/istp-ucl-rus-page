@@ -1,0 +1,240 @@
+{
+    "files": [
+        {
+          "id": 1,
+          "name_conf": "16-я ежегодная конференция \"Физика плазмы в солнечной системе\"",
+          "date_place": "8-12 февраля 2021, ИКИ РАН, Россия",
+          "link_conf": "https://plasma2021.cosmos.ru/",
+          "presentations": [
+            {
+              "num": 1,
+              "type": "Устный доклад",
+              "title": "О природе КПП в слабой солнечной вспышке по данным радиогелиографов нового поколения",
+              "speaker": "Куприянова Е.Г., ",
+              "authors": "Колотков Д.Ю., Кашапова Л.К., Кудрявцева А.В., Zhang J., Reid H.A.S.",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name_conf": "National Astronomy Meeting, University of Bath",
+          "date_place": "19 - 23 июля 2021, Великобритания",
+          "link_conf": "https://nam2021.org/",
+          "presentations": [
+            {
+              "num": 1,
+              "type": "Стендовый доклад",
+              "title": "Possible microwave sources of type III storms on 10th April 2019",
+              "speaker": "Hamish A.S. Reid, ",
+              "authors": "Larisa K. Kashapova, Elena G. Kupriyanova, Jinge Zhang",
+              "link": "https://ras.ac.uk/sites/default/files/NAM/P473%20-%20Reid.pdf"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name_conf": "Всероссийская астрономическая конференция",
+          "date_place": "23-28 августа 2021, ГАИШ МГУ, Москва, Россия",
+          "link_conf": "https://www.vak2021.ru/",
+          "presentations": [
+            {
+              "num": 1,
+              "type": "Устный доклад",
+              "title": "О микроволновых источниках шумовых бурь радиовсплесков III типа 10 апреля 2019 г.",
+              "speaker": "Куприянова E.Г., ",
+              "authors": "Кашапова Л.К., Кудрявцева А.В., Reid H.A.S., Zhang J.",
+              "link": "https://drive.google.com/file/d/1-COes0BNwH6YpJPMjoOD_l_hSxQDZRCG/view?usp=sharing"
+            },
+            {
+              "num": 2,
+              "type": "Устный доклад",
+              "title": "О связи микроволнового излучения и метровых всплесков III типа в слабых транзиентных событиях",
+              "main_author": "Алтынцев А.Т., ",
+              "speaker": "Жданов Д.А., ",
+              "authors": "Мешалкина Н.С., Мышьяков И.И., Reid H.A.S.",
+              "link": "https://drive.google.com/file/d/1l2B9P-cIGpeFjxZWssi7weXySZfofBi8/view?usp=sharing"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name_conf": "Всероссийская астрономическая конференция \"Магнетизм и активность Cолнца и звезд\"",
+          "date_place": "31 августа - 3 сентября 2021, пгт.Научный (Крым), Россия",
+          "link_conf": "https://sun.crao.ru/conferences/magnetism-and-activity-of-the-sun-and-stars-2021",
+          "presentations": [
+            {
+              "num": 1,
+              "type": "Устный доклад",
+              "title": "Микроволновый  источник радиовсплесков III  типа по  данным  СРГ  и LOFAR",
+              "speaker": "Куприянова  Е.Г., ",
+              "authors": "Кашапова  Л.К., Reid H.A.S., Zhang J.",
+              "link": "https://drive.google.com/file/d/1XaxSqjpftse6RmOxbGaHX9hLfwlIXOSt/view?usp=sharing"
+            },
+            {
+              "num": 2,
+              "type": "Приглашенный доклад",
+              "title": "Многоволновый радиогелиограф: слабые транзиентные явления в короне Солнца",
+              "speaker": "Алтынцев А.Т., ",
+              "authors": "Лесовой С.В., Мешалкина Н.С., Глоба М.В., Жданов Д.А., Мышьяков И.И., Reid H.A.S.",
+              "link": "https://drive.google.com/file/d/1sktIZZjXp2utuXkh0jfy2McqmBECKM9Y/view?usp=sharing"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name_conf": "16th European Solar Physics Meeting",
+          "date_place": "6-10 сентября 2021, Online",
+          "link_conf": "https://indico.ict.inaf.it/event/794/",
+          "presentations": [
+            {
+              "num": 1,
+              "type": "Приглашенный доклад",
+              "title": "Radio signatures of solar flares",
+              "speaker": "Larisa Kashapova",
+              "authors": "",
+              "link": "https://drive.google.com/file/d/11KPkKdDsq5Iu2cj0knaICMkhpE2wC-8L/view?usp=sharing"
+            },
+            {
+              "num": 2,
+              "type": "Стендовый доклад",
+              "title": "Different properties of microwave and metric QPPs in a solar radio burst",
+              "speaker": "Elena Kupriyanova, ",
+              "authors": "Dmirtii Kolotkov, Larisa Kashapova, Anastasiya Kudryavtseva, Chengming Tan, Hamish Reid",
+              "link": "https://drive.google.com/file/d/19PUXKjk_1mSW3MAJPb-MyZauakoipQNK/view?usp=sharing"
+            }
+          ]
+  
+        },
+        {
+          "id": 6,
+          "name_conf": "XXV Всеройссийская ежегодная конференция по физике Солнца \"Солнечная и солнечно-земная Физика\"",
+          "date_place": "4-8 октября 2021, Главная (Пулковская) астрономическая обсерватория РАН, Санкт-Петербург, Россия",
+          "link_conf": "http://www.gaoran.ru/russian/solphys/2020/",
+          "presentations": [
+            {
+              "num": 1,
+              "type": "Устный доклад",
+              "title": "О связи микроволновых источников солнечных вспышек и всплесков в дециметровом и метровом радиодиапазонах",
+              "speaker": "Кашапова Л.К., ",
+              "authors": "Куприянова Е.Г., Колотков Д.Ю., Рид Х.А.С., Кудрявцева А.В., Тан Ч.М., Жанг Дж.",
+              "link": ""
+            }
+          ]
+        },
+        {
+            "id": 7,
+            "name_conf": "17-я ежегодная конференция \"Физика плазмы в солнечной системе\"",
+            "date_place": "7-11 февраля 2022, ИКИ РАН, Москва, Россия",
+            "link_conf": "https://plasma2022.cosmos.ru/",
+            "presentations": [
+              {
+                "num": 1,
+                "type": "Стендовый доклад",
+                "title": "Изучение связи между микроволновыми и метровыми всплесками во время солнечной вспышки 3 июня 2021 года",
+                "speaker": "Шамсутдинова Ю.Н., ",
+                "authors": "Zhang J., Жданов Д.А. Reid H.A.S., Кашапова Л.К.",
+                "link": ""
+              },
+              {
+                "num": 2,
+                "type": "Устный доклад",
+                "title": "О возможных механизмах взаимосвязи микроволновых источников солечных вспышек и всплесков в дециметровом и метровом радиодиапазонах",
+                "speaker": "Кашапова Л.К., ",
+                "authors": "Куприянова Е.Г., Колотков Д.Ю., Рид Х.А.С., Кудрявцева А.В., Тан Ч.М.",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name_conf": "Всеройссийская научная конференция \"Многоликая вселенная: теория и наблюдения\"",
+            "date_place": "23-27 мая 2022, САО РАН, Нижний Архыз, Россия",
+            "link_conf": "https://multiface-sao.ru/",
+            "presentations": [
+              {
+                "num": 1,
+                "type": "Устный доклад",
+                "title": "О связи между микроволновым и метровым излучением во время солнечной вспышки 3 июня 2021 года",
+                "speaker": "Шамсутдинова Ю.Н., ",
+                "authors": "Жданов Д.А., Кашапова Л.К.",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name_conf": "Всероссийская астрономическая конференция \"Магнетизм и активность Cолнца и звезд\"",
+            "date_place": "22-26 августа 2022, КрАО РАН, пгт.Научный (Крым), Россия",
+            "link_conf": "https://sun.crao.ru/conferences/magnetism-and-activity-of-the-sun-2022",
+            "presentations": [
+              {
+                "num": 1,
+                "type": "Устный доклад",
+                "title": "О взаимосвязях микроволнового источника и радиовсплесков III типа во время слабой солнечной вспышки",
+                "speaker": "Куприянова  Е.Г., ",
+                "authors": "Кашапова Л.К., Reid H.A.S., Long D., Zhang J.",
+                "link": ""
+              },
+              {
+                "num": 2,
+                "type": "Устный доклад",
+                "title": "Особенности формирования микроволнового излучения залимбовой вспышки 29 мая 2020 года",
+                "speaker": "Кашапова Л.К., ",
+                "authors": "Жданов Д.А., Шамсутдинова Ю.Н.",
+                "link": ""
+              },
+              {
+                "num": 3,
+                "type": "Устный доклад",
+                "title": "Результаты исследования связи между микроволновыми и метровыми всплесками во время солнечной вспышки 3 июня 2021 года",
+                "speaker": "Шамсутдинова Ю.Н., ",
+                "authors": "Жданов Д.А., Кашапова Л.К.",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name_conf": "XXVI Всероссийская ежегодная конференция по физике Солнца \"Солнечная и солнечно-земная Физика\"",
+            "date_place": "3-7 октября 2022, Главная (Пулковская) астрономическая обсерватория РАН, Санкт-Петербург, Россия",
+            "link_conf": "http://www.gaoran.ru/russian/solphys/2022/",
+            "presentations": [
+              {
+                "num": 1,
+                "type": "Устный доклад",
+                "title": "Особенности связи между микроволновым и метровым радио излучением во время события 3 июня 2021 года",
+                "speaker": "Кашапова Л.К., ",
+                "authors": "Шамсутдинова Ю.Н., Zhang J., Жданов Д.А., Reid H.A.S.",
+                "link": ""
+              },
+              {
+                "num": 2,
+                "type": "Устный доклад",
+                "title": "О взаимосвязях радиовсплесков III типа с источниками микроволнового и КУФ излучения во время слабой солнечной вспышки",
+                "speaker": "Куприянова Е.Г. ",
+                "authors": "Кашапова Л.К., Рид Х.А.С., Лонг Д., Жанг Дж.",
+                "link": ""
+              }
+            ]
+          },
+          {
+            "id": 11,
+            "name_conf": "Solar Orbiter 8",
+            "date_place": "12-15 сентября 2022, Белфаст, Северная Ирландия",
+            "link_conf": "https://blogs.qub.ac.uk/so8belfast/swt/",
+            "presentations": [
+              {
+                "num": 1,
+                "type": "Стендовый доклад",
+                "title": "Microwaves and Type III Bursts Associated Temporally and Spatially in the Upper Corona",
+                "speaker": "Hamish Reid, ",
+                "authors": "A. T. Altyntsev, N.S. Meshalkina, I. I. Myshyakov, D. A. Zhdanov, L. Kashapova, E.Kuprianova, J. Shamsutdinova, J. Zhang, D. Long, G. Valori, R. French.",
+                "link": ""
+              }
+            ]
+          }
+
+
+      ]
+}
